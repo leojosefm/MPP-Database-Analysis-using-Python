@@ -1,0 +1,4 @@
+pandas==0.23.0
+pyodbc==4.0.23
+XlsxWriter==1.0.4
+
